@@ -1,6 +1,9 @@
 # Ignore env files
 .env
 .env.local
+# Ignore all .env files everywhere
+**/.env
+
 
 
 # Logs
