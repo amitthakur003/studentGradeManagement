@@ -38,6 +38,7 @@ node server.js   # Do NOT use npx nodemon here
 To connect your backend to the database, you must create a .env file inside the backend/ folder with these credentials:
 
 DB_USER=YOUR_DATABASE_USERNAME
+
 DB_PASS=YOUR_DATABASE_PASSWORD
 
 
